@@ -1,1 +1,0 @@
-cmd_drivers/VirtualDisk/VirtualDisk.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /nugen_new/home/adam/es1_test20140324/alps/kernel/scripts/module-common.lds --build-id  -o drivers/VirtualDisk/VirtualDisk.ko drivers/VirtualDisk/VirtualDisk.o drivers/VirtualDisk/VirtualDisk.mod.o
